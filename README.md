@@ -19,7 +19,7 @@ Keep track of your copied texts, pin important items, search, and manage your cl
 
 ## Screenshots 🖼️
 
-![Clipboard Manager Screenshot](screenshot.png)
+![Clipboard Manager Screenshot](pre.png)
 
 ---
 
